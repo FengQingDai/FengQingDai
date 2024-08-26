@@ -1,8 +1,8 @@
 # About
 
-Hello👋, I'm Jannish, a student at Huazhong University of Science and Technology. 
+Hello👋, I'm FengQingDai, who received bachelor degree from JLU and master degree from HUST.
 
-I have a passion for computer graphics and dream of creating a fun and captivating game of my own.   
+I have a great passion for _GRAPHICS_ and dream of creating a fun and captivating _GAME_ of my own.   
 
 
 # Overview
