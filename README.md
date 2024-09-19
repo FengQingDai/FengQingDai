@@ -7,13 +7,13 @@ I have a great passion for _GRAPHICS_ and dream of creating a fun and captivatin
 
 # Overview
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanielfeng)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fengqingdai)](https://github.com/anuraghazra/github-readme-stats)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanielfeng&layout=compact&hide_border=true&langs_count=10)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fengqingdai&layout=compact&hide_border=true&langs_count=10)
 
 
 <!--
-**NathanielFeng/NathanielFeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FengQingDai/FengQingDai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
